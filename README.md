@@ -5,3 +5,4 @@
 3. [다중회귀분석](https://github.com/nicehyun/Machine_Learning/blob/Regression/Multivariate_Regression.ipynb)
 4. [KNN](https://github.com/nicehyun/Machine_Learning/blob/Classfication/KNN.ipynb)
 5. [SVM](https://github.com/nicehyun/Machine_Learning/blob/Classfication/SVM.ipynb)
+6. [Decision Tree](https://github.com/nicehyun/Machine_Learning/blob/Classfication/Decision_Tree.ipynb)
