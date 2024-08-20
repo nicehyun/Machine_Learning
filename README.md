@@ -6,3 +6,5 @@
 4. [KNN](https://github.com/nicehyun/Machine_Learning/blob/Classfication/KNN.ipynb)
 5. [SVM](https://github.com/nicehyun/Machine_Learning/blob/Classfication/SVM.ipynb)
 6. [Decision Tree](https://github.com/nicehyun/Machine_Learning/blob/Classfication/Decision_Tree.ipynb)
+7. [K-means](https://github.com/nicehyun/Machine_Learning/blob/Clustering/K-means.ipynb)
+8, [DBSCAN]()
